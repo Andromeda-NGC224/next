@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import Image from 'next/image';
+
 import { FaCloudUploadAlt } from 'react-icons/fa';
 
 export interface LogoUploaderProps
