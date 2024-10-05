@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'next/image';
 import clsx from 'clsx';
 import StatusLabel, { Status } from '@/app/components/statusLabel';
 import { IoMdCheckmark } from 'react-icons/io';

@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'next/image';
 import { GoSearch } from 'react-icons/go';
 
 export interface SearchInputProps

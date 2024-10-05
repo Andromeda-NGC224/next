@@ -5,9 +5,7 @@ import { FaBriefcase } from 'react-icons/fa';
 import { HiSquares2X2 } from 'react-icons/hi2';
 import SidebarItem from './sidebar-item';
 
-export interface SidebarProps {}
-
-export default function Sidebar({}: SidebarProps) {
+export default function Sidebar() {
   return (
     <aside className="fixed top-0 left-0 z-40 w-60 h-screen">
       <div className="flex flex-col h-full overflow-y-auto bg-gray-900">
